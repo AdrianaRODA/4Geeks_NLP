@@ -1,5 +1,6 @@
 
-# 4Geeks NLP Airbnb Reviews Mexico
+# NLP Airbnb Reviews Mexico
+## Data Science and Machine Learning / 4Geeks
 
 Airbnb ha transformado el mercado de alojamiento en la Ciudad de
 México, ofreciendo una amplia variedad de propiedades con
@@ -17,22 +18,22 @@ realmente influyen en el precio o en la tasa de aceptación.
 
 
 **Pregunta de investigación:** ¿En qué medida los factores tangibles
-(como ubicaci ́on o tamañoo) e intangibles (como número y sentimiento de
-rese ̃nas) determinan el precio de un Airbnb?
+(como ubicación o tamaño) e intangibles (como número y sentimiento de
+reseñas) determinan el precio de un Airbnb?
 
 **Relevancia:** Conocer estos factores ayuda a entender la dinámica del
-mercado, optimizar decisiones de los anfitriones y mejorar la informaci ́on
+mercado, optimizar decisiones de los anfitriones y mejorar la información
 disponible para los usuarios.
 
 **Objetivos principales:**
 
-1-  Verificar si la mayor ́ıa de las rese ̃nas en CDMX son positivas.
+1-  Verificar si la mayor ́ıa de las reseñas en CDMX son positivas.
 
-2- Construir un modelo de precios hed ́onicos para identificar los
+2- Construir un modelo de precios hedónicos para identificar los
 factores asociados al precio.
 
-3- Explorar correlaciones entre precio, tasa de aceptaci ́on, n ́umero de
-rese ̃nas y sentimiento, para evaluar cu ́al influye m ́as en el precio.
+3- Explorar correlaciones entre precio, tasa de aceptación, número de
+reseñas y sentimiento, para evaluar cuál influye más en el precio.
 
 ## Authors
 
