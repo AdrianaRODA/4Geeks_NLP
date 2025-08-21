@@ -39,8 +39,8 @@ reseñas y sentimiento, para evaluar cuál influye más en el precio.
 
 
 
-- Laura Morales [@__]()
-- Mónica Márin [@__]()
+- Laura Morales [@laumr](https://www.github.com/laumr)
+- Mónica Márin [@MonicaACM](https://www.github.com/MonicaACM)
 - Adriana Rodriguez [@AdrianaRODA](https://www.github.com/AdrianaRODA)
 - Daniela Alos [@__]()
 
